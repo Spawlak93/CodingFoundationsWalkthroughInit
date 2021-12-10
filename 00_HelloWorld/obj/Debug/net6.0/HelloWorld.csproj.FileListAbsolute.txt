@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\00_HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
