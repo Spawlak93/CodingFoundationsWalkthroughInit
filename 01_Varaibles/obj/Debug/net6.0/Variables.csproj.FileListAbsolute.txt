@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\Variables.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\Variables.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\Variables.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\ref\Variables.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\bin\Debug\net6.0\Variables.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\ref\Variables.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\01_Varaibles\obj\Debug\net6.0\Variables.genruntimeconfig.cache

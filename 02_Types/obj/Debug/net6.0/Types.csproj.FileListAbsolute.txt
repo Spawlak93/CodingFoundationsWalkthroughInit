@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\Types.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\Types.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\Types.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\Types.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\ref\Types.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\bin\Debug\net6.0\Types.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\ref\Types.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\02_Types\obj\Debug\net6.0\Types.genruntimeconfig.cache
