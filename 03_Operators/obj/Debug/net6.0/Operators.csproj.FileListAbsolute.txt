@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\Operators.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\Operators.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\Operators.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\ref\Operators.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\bin\Debug\net6.0\Operators.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\ref\Operators.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\03_Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
