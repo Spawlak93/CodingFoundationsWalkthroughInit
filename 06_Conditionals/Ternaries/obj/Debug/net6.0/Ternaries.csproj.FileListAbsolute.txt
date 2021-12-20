@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\ref\Ternaries.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\ref\Ternaries.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.genruntimeconfig.cache

@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\Variables.csproj",
+      "projectUniqueName": "c:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "C:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\Variables.csproj",
+      "projectPath": "c:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\Variables.csproj",
       "packagesPath": "C:\\Users\\sipaw\\.nuget\\packages\\",
-      "outputPath": "C:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\obj\\",
+      "outputPath": "c:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\01_Varaibles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sipaw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sipaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ForLoops.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ForLoops.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ForLoops.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ForLoops.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ref\ForLoops.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\bin\Debug\net6.0\ForLoops.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ref\ForLoops.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\07_Loops\For\obj\Debug\net6.0\ForLoops.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZHpB7jArbk0z7L9HaoBTk9/Yd/xxdjnsfW5Q9ZFETUJslL5BB0TKwG6ouB/zi1SLrrESAi7ad/3ZVJisteZ1Q==",
+  "dgSpecHash": "HYD5tia0IbRrz9Hcr5JrFRnkMFFXuQgDezc8nog8xO1nc5FDiRW6GtQQ5G4uvlJfTQmHyvxLVNe10kGn4Fz/tQ==",
   "success": true,
-  "projectFilePath": "C:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\04_ReferenceTypes\\Collections\\Collections.csproj",
+  "projectFilePath": "c:\\CodingStuffs\\Coding Foundations\\C#FunamentalsRedo\\csharpBasics\\04_ReferenceTypes\\Collections\\Collections.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,6 +10,9 @@ string[] stringArray = {"Hello", "World", "Why", "who", "What", "Where", stringE
 //Indexing is still a thing remember the first index is 0
 string thirdItem = stringArray[2];
 
+//if you write out a collection you are told it is a collection
+System.Console.WriteLine(stringArray);
+
 //Interesting thing with reference types such as collections is they dont actually hold their value but rather the address of the value
 //Aka if we set them = and then change one booth change
 

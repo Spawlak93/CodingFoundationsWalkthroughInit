@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\Classes.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\Classes.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\Classes.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\ref\Classes.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\bin\Debug\net6.0\Classes.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\ref\Classes.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\08_Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache

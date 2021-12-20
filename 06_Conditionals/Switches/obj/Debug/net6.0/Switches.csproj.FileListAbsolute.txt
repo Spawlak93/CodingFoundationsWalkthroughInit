@@ -1,0 +1,15 @@
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.exe
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.deps.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.runtimeconfig.json
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\ref\Switches.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\bin\Debug\net6.0\Switches.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.csproj.AssemblyReference.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.AssemblyInfoInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.AssemblyInfo.cs
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.csproj.CoreCompileInputs.cache
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\ref\Switches.dll
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.pdb
+C:\CodingStuffs\Coding Foundations\C#FunamentalsRedo\csharpBasics\06_Conditionals\Switches\obj\Debug\net6.0\Switches.genruntimeconfig.cache
